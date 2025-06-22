@@ -1,0 +1,4 @@
+
+apiVersion: v2
+name: service-analytics
+version: 0.1.0
